@@ -1,0 +1,3 @@
+.DS_Store
+outputs/mapped_data/_SUCCESS
+outputs/mapped_data/*.crc
